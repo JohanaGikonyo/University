@@ -1,0 +1,48 @@
+.logo{
+    background-color: yellow;
+    border-radius: 0 100px 0 100px;
+    color: maroon;
+    float: right;
+    padding: 5px;
+    border: solid red;
+    width: 175px;
+    height: 160px;
+}
+
+    
+
+h1{
+    text-align: center;
+    background-color: burlywood;
+width: 750px;
+}
+.hri{
+    background-color: orangered;
+    height: 5px;
+}
+.hrr{
+    width: 5px;
+    height: 300px;
+    background-color: orange;
+    float: left;
+    margin: 30px;
+}
+.home{
+    color: white;
+    background-color: rgb(148, 143, 92);
+    
+}
+.shandow{
+    background-color: rgb(211, 211, 211);
+    width: 300px;
+    padding: 5px;
+    
+    
+}
+.order{
+    margin: 20px;
+    color: white;
+    background-color: orange;
+    padding: 10px;
+    width: 150px;
+}
